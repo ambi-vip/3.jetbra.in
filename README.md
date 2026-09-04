@@ -4,6 +4,9 @@
 
 [3.jetbra.in](https://3.jetbra.in) 存档
 
+keys: https://github.com/jiangyiqi99/3.jetbra.in
+zip: https://github.com/niqingyang/3.jetbra.in
+
 ## 使用方法
 
 1. 初始化
